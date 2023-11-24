@@ -1,4 +1,5 @@
 body{
+   
     background-color: rgb(214, 108, 108);
 
 }
@@ -67,3 +68,17 @@ form {
     background-color: #be3f3f;
     border-radius: 15px !important;
   }
+
+table {
+    margin-left: 33%;
+    border: 10px;
+    border-color:black;
+    border-radius:1%;
+    background-color: black;
+
+}
+tr {
+    border:5px;
+    border-color:black;
+    background-color:rgb(214, 108, 108) ;
+}
