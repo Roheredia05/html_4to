@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(214, 108, 108);
+
+}
+
+header {
+    background-color: #be3f3f;
+}
+
+
+footer{
+
+    text-align: center;
+}
+
+main{
+
+    text-align: center;
+}
+
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para la lista sin viñetas */
+  ul {
+    list-style: none;
+    padding: 0;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para cada elemento de la lista */
+  li {
+    margin-bottom: 10px;
+    border-radius: 15px !important;
+
+  }
+
+  /* Estilo para las etiquetas */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para los campos de entrada */
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 15px !important;
+  }
+
+  /* Estilo para el botón de envío */
+  input[type="submit"] {
+    background-color: #be3f3f;
+    color: white;
+    cursor: pointer;
+    border-radius: 15px !important;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #be3f3f;
+    border-radius: 15px !important;
+  }
